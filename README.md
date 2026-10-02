@@ -19,11 +19,17 @@ CS2 Hyper Beast estetiğinden esinlenen yaratık görseli, nar çiçeği ve turk
 
 ## İndir ve çalıştır
 
+**[Microsoft Store’dan ücretsiz indir](https://apps.microsoft.com/store/detail/9NCF9BDTM310?cid=DevShareMCLPCS)**
+
+Microsoft Store sürümü yayımlandı. Store üzerinden kurulum ve güncellemeler kullanılabilir.
+
+### Taşınabilir sürüm
+
 1. [v0.1.0 sürümünü açın](https://github.com/ardacob/hyperdrive-beast-core/releases/tag/v0.1.0).
 2. `HyperDrive-Windows-v0.1.0.zip` dosyasını indirip çıkarın.
 3. `HyperDrive.exe` dosyasını çalıştırın; sürücüyü seçip **Testi başlat** düğmesine basın.
 
-Kurulum gerekmez. Windows ve .NET Framework 4.x gerekir; güncel Windows 10/11 sistemlerinde mevcut çerçeve kullanılır. Derleme Authenticode ile imzalanmamıştır.
+Kurulum gerekmez. Windows ve .NET Framework 4.x gerekir; güncel Windows 10/11 sistemlerinde mevcut çerçeve kullanılır. GitHub’daki taşınabilir EXE Authenticode ile imzalanmamıştır; Store sürümü için yukarıdaki bağlantıyı kullanın.
 
 ## Mevcut özellikler
 
