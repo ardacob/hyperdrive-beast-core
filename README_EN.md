@@ -13,12 +13,6 @@ The first published **v0.1.0 development build** uses an original AI-generated c
 
 The Microsoft Store edition is available, with installation and updates through the Store. The app interface is Turkish.
 
-### Portable edition
-
-Open [release v0.1.0](https://github.com/ardacob/hyperdrive-beast-core/releases/tag/v0.1.0), download and extract `HyperDrive-Windows-v0.1.0.zip`, then run `HyperDrive.exe`. Select a drive and click **Testi başlat** (Start test). The app interface is Turkish.
-
-No installation is required. Windows with .NET Framework 4.x is needed. The portable GitHub executable is not Authenticode-signed; use the Store link above for the Store edition.
-
 ## Features
 
 - Internal and external drives that have a Windows drive letter.
