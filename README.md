@@ -23,14 +23,6 @@ CS2 Hyper Beast estetiğinden esinlenen yaratık görseli, nar çiçeği ve turk
 
 Microsoft Store sürümü yayımlandı. Store üzerinden kurulum ve güncellemeler kullanılabilir.
 
-### Taşınabilir sürüm
-
-1. [v0.1.0 sürümünü açın](https://github.com/ardacob/hyperdrive-beast-core/releases/tag/v0.1.0).
-2. `HyperDrive-Windows-v0.1.0.zip` dosyasını indirip çıkarın.
-3. `HyperDrive.exe` dosyasını çalıştırın; sürücüyü seçip **Testi başlat** düğmesine basın.
-
-Kurulum gerekmez. Windows ve .NET Framework 4.x gerekir; güncel Windows 10/11 sistemlerinde mevcut çerçeve kullanılır. GitHub’daki taşınabilir EXE Authenticode ile imzalanmamıştır; Store sürümü için yukarıdaki bağlantıyı kullanın.
-
 ## Mevcut özellikler
 
 - Dahili diskler, USB bellekler ve Windows'ta sürücü harfi bulunan harici diskler.
